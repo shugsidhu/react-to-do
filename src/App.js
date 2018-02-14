@@ -7,8 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <ul>
-          <ToDo />
-          <ToDo />
+          <ToDo/>
+          <ToDo/>
         </ul>
       </div>
     );
